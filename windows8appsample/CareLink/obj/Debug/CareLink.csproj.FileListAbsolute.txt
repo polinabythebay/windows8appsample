@@ -1,0 +1,242 @@
+C:\Users\hnassif\Desktop\CareLink\CareLink\bin\Debug\CareLink.exe
+C:\Users\hnassif\Desktop\CareLink\CareLink\bin\Debug\CareLink.pdb
+C:\Users\hnassif\Desktop\CareLink\CareLink\bin\Debug\resources.pri
+C:\Users\hnassif\Desktop\CareLink\CareLink\bin\Debug\AppxManifest.xml
+C:\Users\hnassif\Desktop\CareLink\CareLink\bin\Debug\CareLink.build.appxrecipe
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\App.g.i.cs
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\App.g.cs
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\GroupedItemsPage.g.i.cs
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\GroupedItemsPage.g.cs
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\GroupDetailPage.g.i.cs
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\GroupDetailPage.g.cs
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\ItemDetailPage.g.i.cs
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\ItemDetailPage.g.cs
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\App.xaml
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\Common\StandardStyles.xaml
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\GroupedItemsPage.xaml
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\GroupDetailPage.xaml
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\ItemDetailPage.xaml
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\CareLink.exe
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\CareLink.pdb
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\priconfig.xml
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\layout.resfiles
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\resources.resfiles
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\pri.resfiles
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\LanguageQualifiers.txt
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\ProjectArchitectures.txt
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\priconfig.xml.intermediate
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\layout.resfiles.intermediate
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\resources.resfiles.intermediate
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\pri.resfiles.intermediate
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\GroupDetailPage1.g.i.cs
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\GroupDetailPage1.g.cs
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\GroupDetailPage1.xaml
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\PhotoPage.g.i.cs
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\PhotoPage.g.cs
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\PhotoPage.xaml
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\BasicPage1.g.i.cs
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\BasicPage1.g.cs
+C:\Users\hnassif\Desktop\CareLink\CareLink\obj\Debug\BasicPage1.xaml
+C:\Users\hnassif\Desktop\new Version\CareLink\bin\Debug\CareLink.exe
+C:\Users\hnassif\Desktop\new Version\CareLink\bin\Debug\CareLink.pdb
+C:\Users\hnassif\Desktop\new Version\CareLink\bin\Debug\resources.pri
+C:\Users\hnassif\Desktop\new Version\CareLink\bin\Debug\AppxManifest.xml
+C:\Users\hnassif\Desktop\new Version\CareLink\bin\Debug\CareLink.build.appxrecipe
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\App.g.i.cs
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\App.g.cs
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\test.g.i.cs
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\test.g.cs
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\BasicPage1.g.i.cs
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\BasicPage1.g.cs
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\PhotoPage.g.i.cs
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\PhotoPage.g.cs
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\GroupDetailPage1.g.i.cs
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\GroupDetailPage1.g.cs
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\GroupedItemsPage.g.i.cs
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\GroupedItemsPage.g.cs
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\GroupDetailPage.g.i.cs
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\GroupDetailPage.g.cs
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\ItemDetailPage.g.i.cs
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\ItemDetailPage.g.cs
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\App.xaml
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\BasicPage1.xaml
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\PhotoPage.xaml
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\GroupDetailPage1.xaml
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\Common\StandardStyles.xaml
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\GroupedItemsPage.xaml
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\GroupDetailPage.xaml
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\ItemDetailPage.xaml
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\test.xaml
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\CareLink.exe
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\CareLink.pdb
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\priconfig.xml.intermediate
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\layout.resfiles.intermediate
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\resources.resfiles.intermediate
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\pri.resfiles.intermediate
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\priconfig.xml
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\layout.resfiles
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\resources.resfiles
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\pri.resfiles
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\LanguageQualifiers.txt
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\ProjectArchitectures.txt
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\MainPage.g.i.cs
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\MainPage.g.cs
+C:\Users\hnassif\Desktop\new Version\CareLink\obj\Debug\MainPage.xaml
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\bin\Debug\CareLink.exe
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\bin\Debug\CareLink.pdb
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\bin\Debug\resources.pri
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\bin\Debug\AppxManifest.xml
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\bin\Debug\CareLink.build.appxrecipe
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\App.g.i.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\App.g.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\MainPage.g.i.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\MainPage.g.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\test.g.i.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\test.g.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\BasicPage1.g.i.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\BasicPage1.g.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\PhotoPage.g.i.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\PhotoPage.g.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\GroupDetailPage1.g.i.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\GroupDetailPage1.g.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\GroupedItemsPage.g.i.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\GroupedItemsPage.g.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\GroupDetailPage.g.i.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\GroupDetailPage.g.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\ItemDetailPage.g.i.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\ItemDetailPage.g.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\App.xaml
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\MainPage.xaml
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\test.xaml
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\BasicPage1.xaml
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\PhotoPage.xaml
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\GroupDetailPage1.xaml
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\GroupedItemsPage.xaml
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\GroupDetailPage.xaml
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\ItemDetailPage.xaml
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\CareLink.exe
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\CareLink.pdb
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\priconfig.xml
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\layout.resfiles
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\resources.resfiles
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\pri.resfiles
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\LanguageQualifiers.txt
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\ProjectArchitectures.txt
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\priconfig.xml.intermediate
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\layout.resfiles.intermediate
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\resources.resfiles.intermediate
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\pri.resfiles.intermediate
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\QuizPage.g.i.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\QuizPage.g.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\QuizPage.xaml
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\NotesPage.g.i.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\NotesPage.g.cs
+C:\Users\Polina\Desktop\projects\new Version\new Version\CareLink\obj\Debug\NotesPage.xaml
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\bin\Debug\CareLink.exe
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\bin\Debug\CareLink.pdb
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\bin\Debug\resources.pri
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\bin\Debug\AppxManifest.xml
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\bin\Debug\CareLink.build.appxrecipe
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\App.g.i.cs
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\App.g.cs
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\MainPage.g.i.cs
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\MainPage.g.cs
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\NotesPage.g.i.cs
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\NotesPage.g.cs
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\QuizPage.g.i.cs
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\QuizPage.g.cs
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\BasicPage1.g.i.cs
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\BasicPage1.g.cs
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\PhotoPage.g.i.cs
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\PhotoPage.g.cs
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\GroupDetailPage1.g.i.cs
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\GroupDetailPage1.g.cs
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\GroupedItemsPage.g.i.cs
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\GroupedItemsPage.g.cs
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\GroupDetailPage.g.i.cs
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\GroupDetailPage.g.cs
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\ItemDetailPage.g.i.cs
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\ItemDetailPage.g.cs
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\App.xaml
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\MainPage.xaml
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\NotesPage.xaml
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\QuizPage.xaml
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\BasicPage1.xaml
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\PhotoPage.xaml
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\GroupDetailPage1.xaml
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\Common\StandardStyles.xaml
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\GroupedItemsPage.xaml
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\GroupDetailPage.xaml
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\ItemDetailPage.xaml
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\CareLink.exe
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\CareLink.pdb
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\priconfig.xml.intermediate
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\layout.resfiles.intermediate
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\resources.resfiles.intermediate
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\pri.resfiles.intermediate
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\priconfig.xml
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\layout.resfiles
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\resources.resfiles
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\pri.resfiles
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\LanguageQualifiers.txt
+C:\Users\hnassif\Desktop\new Version (2)\new Version01\new Version\CareLink\obj\Debug\ProjectArchitectures.txt
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\bin\Debug\CareLink.exe
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\bin\Debug\CareLink.pdb
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\bin\Debug\resources.pri
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\bin\Debug\AppxManifest.xml
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\bin\Debug\CareLink.build.appxrecipe
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\App.g.i.cs
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\App.g.cs
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\MainPage.g.i.cs
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\MainPage.g.cs
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\NotesPage.g.i.cs
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\NotesPage.g.cs
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\QuizPage.g.i.cs
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\QuizPage.g.cs
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\BasicPage1.g.i.cs
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\BasicPage1.g.cs
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\PhotoPage.g.i.cs
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\PhotoPage.g.cs
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\GroupDetailPage1.g.i.cs
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\GroupDetailPage1.g.cs
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\GroupedItemsPage.g.i.cs
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\GroupedItemsPage.g.cs
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\GroupDetailPage.g.i.cs
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\GroupDetailPage.g.cs
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\ItemDetailPage.g.i.cs
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\ItemDetailPage.g.cs
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\App.xaml
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\MainPage.xaml
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\NotesPage.xaml
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\QuizPage.xaml
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\BasicPage1.xaml
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\PhotoPage.xaml
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\GroupDetailPage1.xaml
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\GroupedItemsPage.xaml
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\GroupDetailPage.xaml
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\ItemDetailPage.xaml
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\CareLink.exe
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\CareLink.pdb
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\priconfig.xml
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\layout.resfiles
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\resources.resfiles
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\pri.resfiles
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\LanguageQualifiers.txt
+C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\obj\Debug\ProjectArchitectures.txt

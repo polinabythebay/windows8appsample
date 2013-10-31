@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN8-VM</Machine>
+    <WindowsUser>Polina</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\bin\Debug\CareLink.exe">
+      <PackagePath>CareLink.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\bin\Debug\CareLink.pdb">
+      <PackagePath>CareLink.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\11.png">
+      <PackagePath>Assets\11.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\12.png">
+      <PackagePath>Assets\12.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\13.png">
+      <PackagePath>Assets\13.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\14.png">
+      <PackagePath>Assets\14.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\15.png">
+      <PackagePath>Assets\15.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\16.png">
+      <PackagePath>Assets\16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\17.png">
+      <PackagePath>Assets\17.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\18.png">
+      <PackagePath>Assets\18.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\19.png">
+      <PackagePath>Assets\19.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\2.png">
+      <PackagePath>Assets\2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\20.png">
+      <PackagePath>Assets\20.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\21.png">
+      <PackagePath>Assets\21.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\22.png">
+      <PackagePath>Assets\22.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\23.png">
+      <PackagePath>Assets\23.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\24.png">
+      <PackagePath>Assets\24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\25.png">
+      <PackagePath>Assets\25.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\26.png">
+      <PackagePath>Assets\26.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\27.png">
+      <PackagePath>Assets\27.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\28.png">
+      <PackagePath>Assets\28.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\29.png">
+      <PackagePath>Assets\29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\3.png">
+      <PackagePath>Assets\3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\30.png">
+      <PackagePath>Assets\30.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\4.png">
+      <PackagePath>Assets\4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\5.png">
+      <PackagePath>Assets\5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\6.png">
+      <PackagePath>Assets\6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\7.png">
+      <PackagePath>Assets\7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\8.png">
+      <PackagePath>Assets\8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\9.png">
+      <PackagePath>Assets\9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\cameraLogo.png">
+      <PackagePath>Assets\cameraLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\CareLinkSplashScreen.png">
+      <PackagePath>Assets\CareLinkSplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\p1.png">
+      <PackagePath>Assets\p1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\p10.png">
+      <PackagePath>Assets\p10.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\p11.png">
+      <PackagePath>Assets\p11.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\p12.png">
+      <PackagePath>Assets\p12.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\p13.png">
+      <PackagePath>Assets\p13.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\p14.png">
+      <PackagePath>Assets\p14.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\p15.png">
+      <PackagePath>Assets\p15.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\p16.png">
+      <PackagePath>Assets\p16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\p17.png">
+      <PackagePath>Assets\p17.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\p18.png">
+      <PackagePath>Assets\p18.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\p19.png">
+      <PackagePath>Assets\p19.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\p2.png">
+      <PackagePath>Assets\p2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\p20.png">
+      <PackagePath>Assets\p20.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\p3.png">
+      <PackagePath>Assets\p3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\p4.png">
+      <PackagePath>Assets\p4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\p5.png">
+      <PackagePath>Assets\p5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\p6.png">
+      <PackagePath>Assets\p6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\p7.png">
+      <PackagePath>Assets\p7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\p8.png">
+      <PackagePath>Assets\p8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\p9.png">
+      <PackagePath>Assets\p9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\AccelCareLogo01.png">
+      <PackagePath>Assets\AccelCareLogo01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\AccelCARELogo02.png">
+      <PackagePath>Assets\AccelCARELogo02.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\AccelCARELogo03.png">
+      <PackagePath>Assets\AccelCARELogo03.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\AccelCARELogo04.png">
+      <PackagePath>Assets\AccelCARELogo04.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Screen shot 2013-02-23 at 2.48.52 AM.png">
+      <PackagePath>Screen shot 2013-02-23 at 2.48.52 AM.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\Resized-19WD1.jpg">
+      <PackagePath>Assets\Resized-19WD1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\Resized-8MBZ6.jpg">
+      <PackagePath>Assets\Resized-8MBZ6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Assets\Suliman, Fatmata, after,  %282%29 - Copy-filtered.jpg">
+      <PackagePath>Assets\Suliman, Fatmata, after,  %282%29 - Copy-filtered.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\Resized-19WD1.jpg">
+      <PackagePath>Resized-19WD1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\bin\Debug\NotesPage.xaml">
+      <PackagePath>NotesPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\bin\Debug\QuizPage.xaml">
+      <PackagePath>QuizPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\bin\Debug\BasicPage1.xaml">
+      <PackagePath>BasicPage1.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\bin\Debug\PhotoPage.xaml">
+      <PackagePath>PhotoPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\bin\Debug\GroupDetailPage1.xaml">
+      <PackagePath>GroupDetailPage1.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\bin\Debug\GroupedItemsPage.xaml">
+      <PackagePath>GroupedItemsPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\bin\Debug\GroupDetailPage.xaml">
+      <PackagePath>GroupDetailPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\bin\Debug\ItemDetailPage.xaml">
+      <PackagePath>ItemDetailPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Polina\Desktop\projects\new Version03\new Version03\CareLink\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
